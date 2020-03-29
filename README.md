@@ -4,9 +4,9 @@ zoom attendance csv file generator from meeting_saved_chat.txt
 
 OPTION 1 via Command Line:
 
-Run the executable jar via the commandline with 2 arguments as per the example below
+Run the executable jar via the command line with 2 arguments as per the example below
 
-java -jar zoom-attendance-file-csv-generator-commandline.jar "path to meeting_saved_chat.txt file" "outputfile.csv"
+java -jar zoom-attendance-file-csv-generator-commandline.jar "path/to/file/meeting_saved_chat.txt" "path/to/file/outputfile.csv"
 
 
 
