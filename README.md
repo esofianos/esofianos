@@ -13,5 +13,6 @@ java -jar zoom-attendance-file-csv-generator-commandline.jar "path to meeting_sa
 OPTION 2 via File Chooser GUI selecting only the input file:
 
 Run the executable jar using the file explorer to choose the meeting_saved_chat.txt you want to convert to an attendance file.
+It will create attendance.csv in the same directory as the file you chose to convert.
 
 
